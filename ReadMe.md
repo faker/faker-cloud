@@ -1,6 +1,9 @@
+
 # Faker Cloud
 
 Faker Cloud is a cloud based solution for [faker.js](https://github.com/Marak/faker.js). Faker Cloud provides a web based User Interface and REST API for managing data schemas which can be accessed in real-time to generate and download dynamic and random data from faker.js
+
+![faker-cloud](https://user-images.githubusercontent.com/70011/109909065-758a1900-7c73-11eb-92ec-7f9f75d55b2b.png)
 
 # Why use Faker Cloud and not Faker.js?
 
